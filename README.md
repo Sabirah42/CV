@@ -14,6 +14,11 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 
 | Project Repository | Description | Technologies |
 | :----------------: |:----------: | :----------: |
-| Workout Buddy | Web app that allows you to create an account and add your workouts (ongoing) | Mongoose, MongoDB, Express, Node
+| Workout Buddy | Web app that allows you to create an account and add your workouts (ongoing). | Mongoose, MongoDB, Express, Node |
+| Blog | Small  project allowing you to create an online journal. | React |
+| Enaidle | Enaidle grew out of an idea of building a community of people helping people. Working in an Agile way, we determined our MVP enabled charitable organisations to post their needs and for users to respond to these. | Mongoose, MongoDB, Express, Node, Bootstrap, Jest, Cypress |
+| Acebook | Social media platform allowing users to login, logout, create posts and make comments. This was my first time working with a legacy codebase and using the MERN stack. | Mongoose, MongoDB, Express, Node, HTML, CSS, Jest, Cypress |
+| Makersbnb | A listing and booking site. I learnt how to work in a team to deliver a presentable product on a very tight timeline. This is where I really got to grips with Github and learnt how to run my first ever stand-ups and retros. | Ruby, SQL, RSpec, HTML, CSS |
+
 
 
