@@ -9,3 +9,11 @@ Having successfully completed the course, I am excited about finding a tech-forw
 
 ## Tech languages and frameworks
 JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB | SQL | Sinatra | React | Bootstrap | HTML | CSS
+
+## Projects
+
+| Project Repository | Description | Technologies |
+| :----------------: |:----------: | :----------: |
+| Workout Buddy | Web app that allows you to create an account and add your workouts (ongoing) | Mongoose, MongoDB, Express, Node
+
+
