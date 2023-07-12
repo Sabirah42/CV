@@ -1,6 +1,6 @@
 <!-- # <center>Sabirah Ahammed - Software Developer</center> -->
-<div align="center">
-  Sabirah Ahammed - Software Developer
+# <div align="center">
+  # Sabirah Ahammed - Software Developer
 </div>
 
 
