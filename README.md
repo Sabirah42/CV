@@ -5,7 +5,7 @@
 
 <!-- ![Me!](/Abseil.jpg) -->
 <div style="text-align: center;">
-<img src="Abseil.jpg" style="width: 600px;">
+<img src="Abseil.jpg" style="display: block; margin-right: auto; margin-left: auto; width: 600;>
 </div>
 
 ## About me
