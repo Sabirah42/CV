@@ -4,7 +4,9 @@
 
 
 <!-- ![Me!](/Abseil.jpg) -->
-<img src="Abseil.jpg" style="width: 600px" fig.align = "center">
+<p align="center">
+<img src="Abseil.jpg" style="width: 600px">
+</p>
 
 ## About me
 Full-stack Junior Software Developer with a background in Human Resources, specialising in Mental Health and Equity, Diversity & Inclusion (EDI). With over 12 years of experience, I have worked in large businesses to start-ups in the private, not-for-profit and charity sectors. I pride myself on building great relationships with clients, leading with empathy, patience and humour.
