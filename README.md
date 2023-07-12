@@ -1,7 +1,5 @@
 # Sabirah Ahammed - Software Developer
 
-![Me](/pictures/Abseil.jpg)
-
 ## About me
 Full-stack Junior Software Developer with a background in Human Resources, specialising in Mental Health and Equity, Diversity & Inclusion (EDI). With over 12 years of experience, I have worked in large businesses to start-ups in the private, not-for-profit and charity sectors. I pride myself on building great relationships with clients, leading with empathy, patience and humour.
 
@@ -101,4 +99,6 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 
 ## Hobbies
 
-Growing up loving dinosaurs, it only makes sense that I'm now a member of the Natural History Museum and frequent their exhibitions and events. I'm also part of a Women's Whisky Group and go to monthly talks (and tasters...) delivered by female brand ambassadors. Mainly, I'm a believer in "try anything once", which has led me to a variety of activities including ice wall climbing, bachata and improv comedy!
+:sauropod: Growing up loving dinosaurs, it only makes sense that I'm now a member of the Natural History Museum and frequent their exhibitions and events.
+:tumbler_glass: I'm also part of a Women's Whisky Group and go to monthly talks (and tasters...) delivered by female brand ambassadors.
+:climbing_woman: Mainly, I'm a believer in "try anything once", which has led me to a variety of activities including ice wall climbing, bachata and improv comedy!
