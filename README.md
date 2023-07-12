@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Sabirah Ahammed - Software Developer</p>
+<h1 style="text-align: center;">Sabirah Ahammed - Software Developer</h1>
 
 ![Me!](/Abseil.jpg)
 
