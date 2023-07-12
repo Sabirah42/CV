@@ -24,10 +24,6 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 ### Makers Academy - Computer Software Engineering Bootcamp
 *November 2022 - March 2023*
 
-Languages and frameworks:
-
-JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB | SQL | Sinatra | React | Bootstrap | HTML | CSS
-
 - Key focus on **Object-Oriented Programming**
 - Implemented **Test-Driven Development** to ensure code was **DRY** and with fewer bugs on release
 - Combined **Pair Programming** with solo work to produce best development outcomes
@@ -39,8 +35,6 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 
 ### Tom Teaches .Tech
 *August - September 2022*
-
-Languages: HTML | CSS | JavaScript
 
 Short course designed to introduce learners to Frontend Fundamentals and build their own website.
 
