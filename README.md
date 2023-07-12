@@ -20,5 +20,25 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 | Acebook | Social media platform allowing users to login, logout, create posts and make comments. This was my first time working with a legacy codebase and using the MERN stack. | Mongoose, MongoDB, Express, Node, Javascript, HTML, CSS, Jest, Cypress |
 | Makersbnb | A listing and booking site. I learnt how to work in a team to deliver a presentable product on a very tight timeline. This is where I really got to grips with Github and learnt how to run my first ever stand-ups and retros. | Ruby, SQL, Sinatra, HTML, CSS, IRB, RSpec |
 
+## Experience
+### Senior People Advisor, N Family Club
+### (December 2021 - July 2022)
+
+- Within two weeks of joining, supported a junior team member to review the Payroll process and improve automation using systems reporting
+
+
+- Lead on structural changes to case management, reducing average case completion time from 42 to 28 days
+
+
+- Introduced and updated databases to reduce errors, improve efficiency and ensure the team were consistent in their approach
+
+
+- Managed the transfer of acquisition site employees, including management of systems integration
+
+
+- Generalist tasks including signing off on Payroll submissions and providing data to the Director of People for monthly board reports
+
+
+- People Lead for the EDI Champion group
 
 
