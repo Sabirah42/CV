@@ -37,7 +37,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 - Integrated **Github** with **JIRA**, using **branch-based development** to ensure high levels of version control, communication and flexibility during group projects
 - Through recommendations, asked to be one of five organising members of the alumni events committee
 
-## Tom Teaches .Tech
+### Tom Teaches .Tech
 *August - September 2022*
 
 Languages: HTML | CSS | JavaScript
@@ -93,3 +93,7 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 - Worked in collaboration with the Head of HR to ensure effective rollout of and compliance with new General Data Protection Regulation (GDPR)
 
 - Managed and mentored up to four HR Administration and Advisory staff
+
+## Hobbies
+
+Growing up loving dinosaurs, it only makes sense that I'm now a member of the Natural History Museum and frequent their exhibitions and events. I'm also part of a Women's Whisky Group and go to monthly talks (and tasters...) delivered by female brand ambassadors. Mainly, I'm a believer in "try anything once", which has led me to a variety of activities including ice wall climbing, bachata and improv comedy!
