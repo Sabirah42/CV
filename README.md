@@ -21,7 +21,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 | Makersbnb | A listing and booking site. I learnt how to work in a team to deliver a presentable product on a very tight timeline. This is where I really got to grips with Github and learnt how to run my first ever stand-ups and retros. | Ruby, SQL, Sinatra, HTML, CSS, IRB, RSpec |
 
 ## Technical Experience
-**Makers Academy - Computer Software Engineering Bootcamp**
+**Makers Academy - Computer Software Engineering Bootcamp**  
 *November 2022 - March 2023*
 
 - Key focus on **Object-Oriented Programming**
@@ -32,14 +32,14 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 - Learnt how to use console logs and web developer tools to aid **Debugging**
 - Integrated **Github** with **JIRA**, using **branch-based development** to ensure high levels of version control, communication and flexibility during group projects
 - Through recommendations, asked to be one of five organising members of the alumni events committee
-
-**Tom Teaches .Tech**
+  
+**Tom Teaches .Tech**  
 *August - September 2022*
 
 Short course designed to introduce learners to Frontend Fundamentals and build their own website.
 
 ## Work Experience
-**Senior People Advisor, N Family Club**
+**Senior People Advisor, N Family Club**  
 *December 2021 - July 2022*
 
 - Within two weeks of joining, supported a junior team member to review the Payroll process and improve automation using systems reporting
@@ -53,8 +53,8 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 - Generalist tasks including signing off on Payroll submissions and providing data to the Director of People for monthly board reports
 
 - People Lead for the EDI Champion group
-
-**HR Advisor (and Mental Health First Aider), Catalyst Housing Ltd**
+  
+**HR Advisor (and Mental Health First Aider), Catalyst Housing Ltd**  
 *September 2018 - November 2021*
 
 - Highlighted technical errors in the HR Information System causing unfair pay for part-time workers, and held several meetings up to Director level in order to get this rectified
@@ -64,8 +64,8 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 - Partnered with the business to coach managers through challenging people issues, taking an active, preventative approach
 
 - Proactively audited and brought policies in line with legal requirements
-
-**Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and Equity, Diversity & Inclusion Champion), Together: For Mental Wellbeing**
+  
+**Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and Equity, Diversity & Inclusion Champion), Together: For Mental Wellbeing**  
 *October 2010 - September 2018*
 
 - Promoted throughout my time at Together, supporting over 60 national branches and 600+ employees.
@@ -91,10 +91,10 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 ## Education
 **London College of Communication**
 - Diploma in Spatial Design
-
+  
 **Burntwood School for Girls**
 - 3 A-Levels (Maths, Photography, Product Design)
-- 12 GCSEs (including Maths, Statistics, ICT, Triple Science and English)
+- 12 GCSEs (including Maths, Statistics, English and ICT)
 
 
 ## Hobbies
