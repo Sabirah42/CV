@@ -1,7 +1,7 @@
 <!-- # <center>Sabirah Ahammed - Software Developer</center> -->
-# <div align="center">
-  # Sabirah Ahammed - Software Developer
-</div>
+<h1 align="center">
+  Sabirah Ahammed - Software Developer
+</h1>
 
 
 ![Me!](/Abseil.jpg)
