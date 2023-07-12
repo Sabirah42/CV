@@ -41,4 +41,17 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 
 - People Lead for the EDI Champion group
 
+### HR Advisor (and Mental Health First Aider), Catalyst Housing Ltd
+*(September 2018 - November 2021)*
 
+
+- Highlighted technical errors in the HR Information System causing unfair pay for part-time workers, and held several meetings up to Director level in order to get this rectified
+
+
+- Conducted Equality Impact Assessments, using data analysis to measure any effects of People policies on protected groups
+
+
+- Partnered with the business to coach managers through challenging people issues, taking an active, preventative approach
+
+
+- Proactively audited and brought policies in line with legal requirements
