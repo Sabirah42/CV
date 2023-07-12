@@ -22,7 +22,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 
 ## Experience
 ### Senior People Advisor, N Family Club
-**(December 2021 - July 2022)**
+*December 2021 - July 2022*
 
 - Within two weeks of joining, supported a junior team member to review the Payroll process and improve automation using systems reporting
 
@@ -37,7 +37,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 - People Lead for the EDI Champion group
 
 ### HR Advisor (and Mental Health First Aider), Catalyst Housing Ltd
-*(September 2018 - November 2021)*
+*September 2018 - November 2021*
 
 - Highlighted technical errors in the HR Information System causing unfair pay for part-time workers, and held several meetings up to Director level in order to get this rectified
 
@@ -48,7 +48,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 - Proactively audited and brought policies in line with legal requirements
 
 ### Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and EDI Champion), Together: For Mental Wellbeing
-***(October 2010 - September 2018)***
+*October 2010 - September 2018*
 
 - Promoted throughout my time at Together, supporting over 60 national branches and 600+ employees.
 
