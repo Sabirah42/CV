@@ -22,7 +22,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 
 ## Experience
 ### Senior People Advisor, N Family Club
-### (December 2021 - July 2022)
+**(December 2021 - July 2022)**
 
 - Within two weeks of joining, supported a junior team member to review the Payroll process and improve automation using systems reporting
 
