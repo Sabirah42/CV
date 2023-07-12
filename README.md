@@ -8,7 +8,20 @@ Realising that the majority of my career highlights were centred around using te
 Having successfully completed the course, I am excited about finding a tech-forward company in which I can further enhance my engineering skills and make a real impact.
 
 ## Tech languages and frameworks
-JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB | SQL | Sinatra | React | Bootstrap | HTML | CSS
+- JavaScript
+- Ruby
+- Express
+- Cypress
+- RSpec
+- Jest
+- Node
+- Mongoose & MongoDB
+- SQL
+- Sinatra
+- React
+- Bootstrap
+- HTML
+- CSS
 
 ## Projects
 
