@@ -20,7 +20,31 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 | Acebook | Social media platform allowing users to login, logout, create posts and make comments. This was my first time working with a legacy codebase and using the MERN stack. | Mongoose, MongoDB, Express, Node, Javascript, HTML, CSS, Jest, Cypress |
 | Makersbnb | A listing and booking site. I learnt how to work in a team to deliver a presentable product on a very tight timeline. This is where I really got to grips with Github and learnt how to run my first ever stand-ups and retros. | Ruby, SQL, Sinatra, HTML, CSS, IRB, RSpec |
 
-## Experience
+## Technical Experience
+### Makers Academy - Computer Software Engineering Bootcamp
+*November 2022 - March 2023*
+
+Languages and frameworks:
+
+JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB | SQL | Sinatra | React | Bootstrap | HTML | CSS
+
+- Key focus on **Object-Oriented Programming**
+- Implemented **Test-Driven Development** to ensure code was **DRY** and with fewer bugs on release
+- Combined **Pair Programming** with solo work to produce best development outcomes
+- **Code Reviewed** peers' projects, suggesting **refactoring** where required
+- Employed **Agile** processes to deliver projects within tight timeframes
+- Learnt how to use console logs and web developer tools to aid **Debugging**
+- Integrated **Github** with **JIRA**, using **branch-based development** to ensure high levels of version control, communication and flexibility during group projects
+- Through recommendations, asked to be one of five organising members of the alumni events committee
+
+## Tom Teaches .Tech
+*August - September 2022*
+
+Languages: HTML | CSS | JavaScript
+
+Short course designed to introduce learners to Frontend Fundamentals and build their own website.
+
+## Work Experience
 ### Senior People Advisor, N Family Club
 *December 2021 - July 2022*
 
@@ -47,7 +71,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 
 - Proactively audited and brought policies in line with legal requirements
 
-### Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and EDI Champion), Together: For Mental Wellbeing
+### Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and Equity, Diversity & Inclusion Champion), Together: For Mental Wellbeing
 *October 2010 - September 2018*
 
 - Promoted throughout my time at Together, supporting over 60 national branches and 600+ employees.
