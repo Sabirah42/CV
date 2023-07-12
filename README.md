@@ -99,6 +99,6 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 
 ## Hobbies
 
-:sauropod: Growing up loving dinosaurs, it only makes sense that I'm now a member of the Natural History Museum and frequent their exhibitions and events.  
+:sauropod: Growing up loving dinosaurs, it only makes sense that I'm now a member of the Natural History Museum and frequent their exhibitions and events. &nbsp; 
 :tumbler_glass: I'm also part of a Women's Whisky Group and go to monthly talks (and tasters...) delivered by female brand ambassadors.  
 :climbing_woman: Mainly, I'm a believer in "try anything once", which has led me to a variety of activities including ice wall climbing, bachata and improv comedy!
