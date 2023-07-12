@@ -1,4 +1,4 @@
-# Sabirah Ahammed - Software Developer :neckbeard:
+# Sabirah Ahammed - Software Developer
 
 ## About me
 Full-stack Junior Software Developer with a background in Human Resources, specialising in Mental Health and Equity, Diversity & Inclusion (EDI). With over 12 years of experience, I have worked in large businesses to start-ups in the private, not-for-profit and charity sectors. I pride myself on building great relationships with clients, leading with empathy, patience and humour.
@@ -21,7 +21,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 | Makersbnb | A listing and booking site. I learnt how to work in a team to deliver a presentable product on a very tight timeline. This is where I really got to grips with Github and learnt how to run my first ever stand-ups and retros. | Ruby, SQL, Sinatra, HTML, CSS, IRB, RSpec |
 
 ## Technical Experience
-### Makers Academy - Computer Software Engineering Bootcamp
+**Makers Academy - Computer Software Engineering Bootcamp**
 *November 2022 - March 2023*
 
 - Key focus on **Object-Oriented Programming**
@@ -33,13 +33,13 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 - Integrated **Github** with **JIRA**, using **branch-based development** to ensure high levels of version control, communication and flexibility during group projects
 - Through recommendations, asked to be one of five organising members of the alumni events committee
 
-### Tom Teaches .Tech
+**Tom Teaches .Tech**
 *August - September 2022*
 
 Short course designed to introduce learners to Frontend Fundamentals and build their own website.
 
 ## Work Experience
-### Senior People Advisor, N Family Club
+**Senior People Advisor, N Family Club**
 *December 2021 - July 2022*
 
 - Within two weeks of joining, supported a junior team member to review the Payroll process and improve automation using systems reporting
@@ -54,7 +54,7 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 
 - People Lead for the EDI Champion group
 
-### HR Advisor (and Mental Health First Aider), Catalyst Housing Ltd
+**HR Advisor (and Mental Health First Aider), Catalyst Housing Ltd**
 *September 2018 - November 2021*
 
 - Highlighted technical errors in the HR Information System causing unfair pay for part-time workers, and held several meetings up to Director level in order to get this rectified
@@ -65,7 +65,7 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 
 - Proactively audited and brought policies in line with legal requirements
 
-### Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and Equity, Diversity & Inclusion Champion), Together: For Mental Wellbeing
+**Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and Equity, Diversity & Inclusion Champion), Together: For Mental Wellbeing**
 *October 2010 - September 2018*
 
 - Promoted throughout my time at Together, supporting over 60 national branches and 600+ employees.
@@ -87,6 +87,15 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 - Worked in collaboration with the Head of HR to ensure effective rollout of and compliance with new General Data Protection Regulation (GDPR)
 
 - Managed and mentored up to four HR Administration and Advisory staff
+
+## Education
+**London College of Communication**
+- Diploma in Spatial Design
+
+**Burntwood School for Girls**
+- 3 A-Levels (Maths, Photography, Product Design)
+- 12 GCSEs (including Maths, Statistics, ICT, Triple Science and English)
+
 
 ## Hobbies
 
