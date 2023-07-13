@@ -8,14 +8,14 @@
 <img src="Abseil.jpg" style="width: 600px">
 </p>
 
-## About me
+## About Me
 Full-stack Junior Software Developer with a background in Human Resources, specialising in Mental Health and Equity, Diversity & Inclusion (EDI). With over 12 years of experience, I have worked in large businesses to start-ups in the private, not-for-profit and charity sectors. I pride myself on building great relationships with clients, leading with empathy, patience and humour.
 
 Realising that the majority of my career highlights were centred around using technology to create efficiencies and improve people's lives, I decided to make a drastic change and apply for an intensive coding skills bootcamp, securing a highly competitive scholarship with Makers Academy.
 
 Having successfully completed the course, I am excited about finding a tech-forward company in which I can further enhance my engineering skills and make a real impact.
 
-## Tech languages and frameworks
+## Tech Languages and Frameworks
 JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB | SQL | Sinatra | React | Bootstrap | HTML | CSS
 
 ## Projects
@@ -29,7 +29,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 | [Makersbnb](https://github.com/tlchambers/makersbnb) | A listing and booking site. I learnt how to work in a team to deliver a presentable product on a very tight timeline. This is where I really got to grips with Github and learnt how to run my first ever stand-ups and retros. | Ruby, SQL, Sinatra, HTML, CSS, IRB, RSpec |
 
 ## Technical Experience
-**Makers Academy - Computer Software Engineering Bootcamp**  
+**Makers Academy - Software Engineering Bootcamp**  
 *November 2022 - March 2023*
 
 - Key focus on **Object-Oriented Programming**
@@ -44,7 +44,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 **Tom Teaches .Tech**  
 *August - September 2022*
 
-Short course designed to introduce learners to Frontend Fundamentals and build their own website.
+Short course designed to introduce learners to Frontend Fundamentals and design their own website.
 
 ## Work Experience
 **Senior People Advisor, N Family Club**  
@@ -105,7 +105,7 @@ Short course designed to introduce learners to Frontend Fundamentals and build t
 - 12 GCSEs (including Maths, Statistics, English and ICT)
 
 
-## Hobbies
+## Hobbies and Interests
 
 :sauropod: Growing up loving dinosaurs, it only makes sense that I'm now a member of the Natural History Museum and frequent their exhibitions and events.
 <p></p>
