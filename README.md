@@ -47,8 +47,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 Short course designed to introduce learners to Frontend Fundamentals and design their own website.
 
 ## Work Experience
-**Senior People Advisor, N Family Club**  
-*December 2021 - July 2022*
+**Senior People Advisor, N Family Club** *December 2021 - July 2022*
 
 - Within two weeks of joining, supported a junior team member to review the Payroll process and improve automation using systems reporting
 
@@ -100,13 +99,13 @@ Promoted throughout my time at Together, supporting over 60 national branches an
 **London College of Communication**
 - Diploma in Spatial Design
 
-Designed spatial solutions tailored to address specific client problems and requirements, and then translated these conceptual ideas into accurate digital representations using computer aided design (CAD) software.
+Designed spatial solutions tailored to address specific client problems and requirements,  before translating these conceptual ideas into accurate digital representations using computer aided design (CAD) software.
 
 **Burntwood School for Girls**
 - 3 A-Levels (Maths, Photography, Product Design)
 - 12 GCSEs (including Maths, Statistics, English and ICT)
 
-**Key accomplishment:**<br>
+**Key accomplishment:**  
 Co-founded and led the Fairtrade Action Group, delivering impactful presentations to engage and educate an audience of over 1200 staff and students. Through campaigning efforts, eventually held meetings with the headteacher and successfully had our school catering contract revised to allow Fairtrade products to be sold in the school shop.
 
 ## Hobbies and Interests
