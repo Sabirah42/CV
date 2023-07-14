@@ -105,7 +105,7 @@ Promoted throughout my time at Together, supporting over 60 national branches an
 **University of the Arts London (LCC)**
 - Diploma in Spatial Design
 
-Designed spatial solutions tailored to address specific client problems and requirements.Translated these conceptual ideas into accurate digital representations using computer aided design (CAD) software.
+Designed spatial solutions tailored to address specific client problems and requirements. Translated these conceptual ideas into accurate digital representations using computer aided design (CAD) software.
 
 **Burntwood School for Girls**
 - 3 A-Levels (Maths, Photography, Product Design)
