@@ -76,7 +76,7 @@ Short course designed to introduce learners to Frontend Fundamentals and design 
 **Senior HR Advisor | HR Advisor | HR Team Administrator | HR Admin Assistant (and Equity, Diversity & Inclusion Champion), Together: For Mental Wellbeing**  
 *October 2010 - September 2018*
 
-- Promoted throughout my time at Together, supporting over 60 national branches and 600+ employees.
+Promoted throughout my time at Together, supporting over 60 national branches and 600+ employees.
 
 - Automated timesheet process for all national branches, reducing time input for multiple departments (95% time reduction for HR Advisor role alone)
 
@@ -99,11 +99,15 @@ Short course designed to introduce learners to Frontend Fundamentals and design 
 ## Education
 **London College of Communication**
 - Diploma in Spatial Design
-  
+
+Designed spatial solutions tailored to address specific client problems and requirements, and then translated these conceptual ideas into accurate digital representations using computer aided design (CAD) software.
+
 **Burntwood School for Girls**
 - 3 A-Levels (Maths, Photography, Product Design)
 - 12 GCSEs (including Maths, Statistics, English and ICT)
 
+Key accomplishment:
+Co-founded and led the Fairtrade Action Group, delivering impactful presentations to engage and educate an audience of over 1200 staff and students. Through campaigning efforts, eventually held meetings with the headteacher and successfully had our school catering contract revised to allow Fairtrade products to be sold in the school shop.
 
 ## Hobbies and Interests
 
