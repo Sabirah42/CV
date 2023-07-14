@@ -47,7 +47,8 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 Short course designed to introduce learners to Frontend Fundamentals and design their own website.
 
 ## Work Experience
-**Senior People Advisor, N Family Club** *December 2021 - July 2022*
+**Senior People Advisor, N Family Club**  
+*December 2021 - July 2022*
 
 - Within two weeks of joining, supported a junior team member to review the Payroll process and improve automation using systems reporting
 
