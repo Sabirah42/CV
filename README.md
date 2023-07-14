@@ -117,6 +117,5 @@ Co-founded and led the Fairtrade Action Group, delivering impactful presentation
 ## Hobbies and Interests
 
 <p>:sauropod: Growing up loving dinosaurs, it only makes sense that I'm now a member of the Natural History Museum and frequent their exhibitions and events.</p>
-<p>:tumbler_glass: I'm also part of a Women's Whisky Group and go to monthly talks (and tasters...) delivered by female brand ambassadors.
-</p>
+<p>:tumbler_glass: I'm also part of a Women's Whisky Group and go to monthly talks (and tasters...) delivered by female brand ambassadors.</p>
 <p>:climbing_woman: Mainly, I'm a believer in "try anything once", which has led me to a variety of activities including ice wall climbing, bachata and improv comedy!</p>
