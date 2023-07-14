@@ -102,7 +102,7 @@ Promoted throughout my time at Together, supporting over 60 national branches an
 - Managed and mentored up to four HR Administration and Advisory staff
 
 ## Education
-**London College of Communication**
+**University of the Arts London (LCC)**
 - Diploma in Spatial Design
 
 Designed spatial solutions tailored to address specific client problems and requirements,  before translating these conceptual ideas into accurate digital representations using computer aided design (CAD) software.
