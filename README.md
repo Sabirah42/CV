@@ -39,7 +39,7 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 - Employed **Agile** processes to deliver projects within tight timeframes
 - Learnt how to use console logs and web developer tools to aid **Debugging**
 - Integrated **Github** with **JIRA**, using **branch-based development** to ensure high levels of version control, communication and flexibility during group projects
-- Through recommendations, asked to be one of five organising members of the alumni events committee
+- Through recommendations, asked to be a member of the alumni events committee. I organise regular tech socials and am currently in the process of setting up a mentorship scheme.
   
 **Tom Teaches .Tech**  
 *August - September 2022*
@@ -47,6 +47,11 @@ JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB
 Short course designed to introduce learners to Frontend Fundamentals and design their own website.
 
 ## Work Experience
+**Volunteer Website Engineer, Under One Sky**  
+*April 2023 - present*
+
+<p>Responsible for supporting the design and build of a charity website using Wordpress and Elementor Pro.</p>
+
 **Senior People Advisor, N Family Club**  
 *December 2021 - July 2022*
 
