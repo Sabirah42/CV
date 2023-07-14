@@ -107,7 +107,8 @@ Designed spatial solutions tailored to address specific client problems and requ
 - 12 GCSEs (including Maths, Statistics, English and ICT)
 
 Key accomplishment:
-Co-founded and led the Fairtrade Action Group, delivering impactful presentations to engage and educate an audience of over 1200 staff and students. Through campaigning efforts, eventually held meetings with the headteacher and successfully had our school catering contract revised to allow Fairtrade products to be sold in the school shop.
+
+<p>Co-founded and led the Fairtrade Action Group, delivering impactful presentations to engage and educate an audience of over 1200 staff and students. Through campaigning efforts, eventually held meetings with the headteacher and successfully had our school catering contract revised to allow Fairtrade products to be sold in the school shop.</p>
 
 ## Hobbies and Interests
 
