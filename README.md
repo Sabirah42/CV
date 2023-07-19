@@ -2,8 +2,6 @@
   Sabirah Ahammed - Software Developer
 </h1>
 
-
-<!-- ![Me!](/Abseil.jpg) -->
 <p align="center">
 <img src="Abseil.jpg" style="width: 600px">
 </p>
@@ -14,9 +12,6 @@ Full-stack Junior Software Developer with a background in Human Resources, speci
 Realising that the majority of my career highlights were centred around using technology to create efficiencies and improve people's lives, I decided to make a drastic change and apply for an intensive coding skills bootcamp, securing a highly competitive scholarship with Makers Academy.
 
 Having successfully completed the course, I am excited about finding a tech-forward company in which I can further enhance my engineering skills and make a real impact.
-
-## Tech Languages and Frameworks
-JavaScript | Ruby | Express | Cypress | RSpec | Jest | Node | Mongoose & MongoDB | SQL | Sinatra | React | Bootstrap | HTML | CSS
 
 ## Projects
 
